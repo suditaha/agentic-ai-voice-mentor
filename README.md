@@ -1,5 +1,7 @@
 # Sentinel-1 HUD
 
+<img width="1672" height="941" alt="ChatGPT Image Jun 22, 2026, 02_13_50 PM" src="https://github.com/user-attachments/assets/44b79f73-1c15-4b2b-b018-3fca33cefa48" />
+
 **Agentic AI Security Mentor built with React, Express, WebSockets, and Gemini**
 
 Sentinel-1 HUD is an interactive AI security training app that helps users practice reasoning through Agentic AI security scenarios. It includes a text mentor, a real-time voice mode, and a quiz-style reasoning desk focused on prompt injection, confused deputy risks, tool misuse, model behavior, and secure AI system design.
@@ -8,7 +10,6 @@ The goal of this project was to build a polished, hands-on Agentic AI security p
 
 ---
 
-## Screenshots
 
 ### Chat Mentor
 <img width="743" height="722" alt="Screenshot 2026-06-22 at 1 27 05 PM" src="https://github.com/user-attachments/assets/e9c059ba-ed92-44e6-8f0a-48d512eaec47" />
